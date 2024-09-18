@@ -3,3 +3,6 @@
 __pycache__/
 *.ipynb_checkpoints
 *.DS_Store
+
+#ignoring large datasets
+challenge-feature-eng/Crime_Data_from_2020_to_Present.csv
